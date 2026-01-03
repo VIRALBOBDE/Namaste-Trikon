@@ -7,7 +7,7 @@ A basic OpenGL implementation to render a colorful interpolated triangle using C
 - **Interpolated Colors:** Uses vertex positions to generate smooth color gradients.
 - **Clean Cleanup:** Proper memory management for VAO, VBO, and Shader programs.
 
-##  Technologies Used
+## 🛠️ Technologies Used
 - **C++**
 - **GLFW** for Window management
 - **GLAD** for OpenGL Loader
